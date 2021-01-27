@@ -1,5 +1,4 @@
 const text = 'Ceci est un texte auto-complété...'
-
 let index = 0;
 
 function writeText(){
